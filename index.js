@@ -74,20 +74,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
 /* Attributions:
 
-Viewing and using code from these user's public
-repositories have helped me write the code in this file.  I have 
-made some changes to the files in terms of document content loading,
-using fetch instead of axios, and have implemented a dedicated, catch-all
-clearForm(), and made other changes with respect to some other of the
-solutions I viewed.  However, starting from these solutions have 
-definitely helped this solution which is why I attribute them here 
+I used code and ideas from the following users' repositories to 
+help me write this solution:
 
 https://github.com/ekhu94/js-github-project
 https://github.com/dwisecar/js-github-project
 https://github.com/dpolcari18/js-github-project/tree/master/js
 
-There were no license files in these repos at the time I accessed them
-on 4/15/2021.
-
 */
-
